@@ -6,7 +6,7 @@ An AI-powered pitch deck generator built with Next.js. Enter a startup idea and 
 
 **Deployed App:**
 
-> Add deployment **URL** here
+> https://ai-pitch-deck-puce.vercel.app/
 
 ## Features
 
