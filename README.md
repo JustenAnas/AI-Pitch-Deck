@@ -147,6 +147,7 @@ AI-Pitch-Deck/
 ├── public/
 ├── .env
 └── package.json
+```
 
 ## Environment Variables
 
@@ -177,3 +178,6 @@ GitHub: [https://github.com/JustenAnas/AI-Pitch-Deck](https://github.com/JustenA
 This project is licensed under the **MIT** License.
 
 See the `**LICENSE**` file for details.
+
+## Created by 
+Anas with ❤️
