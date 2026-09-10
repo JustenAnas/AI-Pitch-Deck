@@ -76,6 +76,7 @@ Create a `.env` file in the project root:
 OPENAI_API_KEY=*your-openai-api-key*
 
 IMAGEKIT_PRIVATE_KEY=*your-imagekit-private-key* IMAGEKIT_PUBLIC_KEY=*your-imagekit-public-key* IMAGEKIT_URL_ENDPOINT=*your-imagekit-url-endpoint* ```
+```
 
 Add any other environment variables required by your configuration.
 
