@@ -118,9 +118,35 @@ To start the production server:
 
 ```bash npm start ```
 
-## Project Structure
+ ## Project Structure
 
-```text AI-Pitch-Deck/ ├── app/ │   ├── api/ │   │   ├── decks/ │   │   └── inngest/ │   ├── decks/ │   └── page.tsx ├── components/ │   ├── ui/ │   ├── deck-viewer.tsx │   ├── create-deck-form.tsx │   └── site-header.tsx ├── lib/ │   ├── generated/ │   │   └── prisma/ │   └── types/ ├── prisma/ │   ├── migrations/ │   └── schema.prisma ├── public/ ├── .env └── package.json ```
+```text
+AI-Pitch-Deck/
+├── app/
+│   ├── api/
+│   │   ├── decks/
+│   │   └── inngest/
+│   ├── decks/
+│   └── page.tsx
+│
+├── components/
+│   ├── ui/
+│   ├── deck-viewer.tsx
+│   ├── create-deck-form.tsx
+│   └── site-header.tsx
+│
+├── lib/
+│   ├── generated/
+│   │   └── prisma/
+│   └── types/
+│
+├── prisma/
+│   ├── migrations/
+│   └── schema.prisma
+│
+├── public/
+├── .env
+└── package.json
 
 ## Environment Variables
 
