@@ -10,4 +10,5 @@ export type InngestEvents = {
 
 export const inngest = new Inngest({
   id: "ai-pitch-deck",
+  signingKey: process.env.INNGEST_SIGNING_KEY,
 });
